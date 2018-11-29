@@ -1,0 +1,11 @@
+F:\PYL2Parcial\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+F:\PYL2Checkout\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+F:\PYL2Checkout\Ejercicio5\bin\Debug\Ejercicio5.exe
+F:\PYL2Checkout\Ejercicio5\bin\Debug\Ejercicio5.pdb
+F:\PYL2Checkout\Ejercicio5\bin\Debug\Ejercicio5.xml
+F:\PYL2Checkout\Ejercicio5\obj\Debug\Ejercicio5.vbprojResolveAssemblyReference.cache
+F:\PYL2Checkout\Ejercicio5\obj\Debug\Ejercicio5.Resources.resources
+F:\PYL2Checkout\Ejercicio5\obj\Debug\Ejercicio5.vbproj.GenerateResource.Cache
+F:\PYL2Checkout\Ejercicio5\obj\Debug\Ejercicio5.exe
+F:\PYL2Checkout\Ejercicio5\obj\Debug\Ejercicio5.xml
+F:\PYL2Checkout\Ejercicio5\obj\Debug\Ejercicio5.pdb
